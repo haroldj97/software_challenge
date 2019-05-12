@@ -4,6 +4,8 @@ This is the Software Challenge for borwell in relation to the Undergraduate Indu
 # Build Instructions
 This application has been developed in Apache Netbeans 11.0 on Windows 10 using Java 
 
+Firstly ensure Java SE Development Kit 8 is installed and setup correcly from here: https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
 In order to build the application, Apache Ant will be required. Follow the installation steps here to install and setup Apache Ant:
 https://ant.apache.org/manual/install.html
 
